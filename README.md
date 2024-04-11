@@ -1,7 +1,13 @@
+<!--
+ * @Author: yangshuai u9h_75bugk181@dingtalk.com
+ * @Date: 2024-04-11 10:50:43
+ * @LastEditors: yangshuai u9h_75bugk181@dingtalk.com
+ * @LastEditTime: 2024-04-11 10:54:06
+ * @FilePath: \schema-form\README.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 # schema-form
-<<<<<<< HEAD
 schema 前端动态表单
-=======
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -40,4 +46,3 @@ pnpm build
 ```sh
 pnpm lint
 ```
->>>>>>> 24d4f56 (feat:初始化仓库)
